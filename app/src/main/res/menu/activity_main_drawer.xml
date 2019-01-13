@@ -3,21 +3,23 @@
     xmlns:tools="http://schemas.android.com/tools"
     tools:showIn="navigation_view">
 
+    <!-- The bellow item values were set thorough 'drawables.xml' file -->
     <group android:checkableBehavior="single">
         <item
             android:id="@+id/nav_home"
-            android:icon="@drawable/ic_home_black_24dp"
+            android:icon="@drawable/ic_menu_home"
             android:title="Home" />
         <item
             android:id="@+id/nav_services"
-            android:icon="@drawable/ic_services_black_24dp"
+            android:icon="@drawable/ic_menu_services"
             android:title="Services" />
         <item
             android:id="@+id/nav_clients"
-            android:icon="@drawable/ic_clients_black_24dp"
+            android:icon="@drawable/ic_menu_clients"
             android:title="Clients" />
     </group>
 
+    <!-- The bellow item values were set directly here on purpose -->
     <item android:title="Communicate">
         <menu>
             <item
