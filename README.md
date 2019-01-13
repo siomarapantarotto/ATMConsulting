@@ -8,7 +8,7 @@ Basically:
 
 2) It implements the "onNavigationItemSelected" method with the following options:
 
-Home        : Directs the user to the home page.
+Home        : Directs user to the home page.
 Services:   : Shows the services offered by the company.
 Clients:    : Shows the clients of the company.
 Contact us  : Allows user to send email.
