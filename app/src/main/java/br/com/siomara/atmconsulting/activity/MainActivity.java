@@ -39,7 +39,7 @@ public class MainActivity extends AppCompatActivity
         fab.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                sendEmail();
+                sendPresetEmail();
             }
         });
 
@@ -110,7 +110,8 @@ public class MainActivity extends AppCompatActivity
             fragmentTransaction.commit();
 
         } else if (id == R.id.nav_contact) {
-            sendEmail();
+            this.sendPresetEmail();
+
         } else if (id == R.id.nav_about) {
             startActivity( new Intent(this, AboutUsActivity.class));
         }
@@ -120,16 +121,23 @@ public class MainActivity extends AppCompatActivity
         return true;
     }
 
-    public void sendEmail() {
+    /** Send email with preset values */
+    public void sendPresetEmail() {
         Intent email = new Intent(Intent.ACTION_SEND);
+
+        // Inform as many emails you want the message to be sent to
         email.putExtra(Intent.EXTRA_EMAIL, new String[] {
-                "siomarapantarotto@gmail.com", // Change to your emails
-                "siomarapantarotto@hotmail.com"
+                "siomarapantarotto@gmail.com",      // 1st email
+                "siomarapantarotto@hotmail.com"     // 2nd email
         });
+
+        // Inform email subject
         email.putExtra(Intent.EXTRA_SUBJECT, "Hello from Fictional ATM Consulting");
+
+        // Inform email message
         email.putExtra(Intent.EXTRA_TEXT, "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ut nisl tincidunt, eleifend erat at, molestie ex. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce et mauris vitae tortor sollicitudin dapibus quis in velit. Nam vitae malesuada eros, at blandit eros. Suspendisse potenti. Donec congue quam eu enim volutpat, ac sagittis ex viverra. Vivamus finibus neque a ultricies tempor. Maecenas ligula nisl, facilisis a odio et, elementum gravida lorem. Cras eget ornare orci. Aliquam pellentesque sapien scelerisque, posuere ex sed, blandit est. Sed tristique ultricies egestas. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.");
 
-        // Configure to open only email application
+        // Configuration to open only email applications installed on de mobile device
         email.setType("message/rfc822");
         startActivity(Intent.createChooser(email, "Choose your favorite email application!"));
     }
