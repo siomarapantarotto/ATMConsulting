@@ -1,19 +1,27 @@
 <resources>
+
+    <!-- STRING value for application name  -->
     <string name="app_name">ATM Consulting</string>
+
+    <!-- STRING values for navigation drawer -->
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="nav_header_title">A Fictional Consulting Company</string>
     <string name="nav_header_subtitle">by SIOMARA.COM.BR</string>
     <string name="nav_header_desc">Navigation header</string>
+
+    <!-- STRING values for menu actions  -->
     <string name="action_settings">Settings</string>
 
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!-- STRING values for ATM Consulting services -->
     <string name="service_1_title">Quality System Management</string>
     <string name="service_1_description">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</string>
     <string name="service_2_title">Quality System Development</string>
     <string name="service_2_description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ut nisl tincidunt, eleifend erat at, molestie ex. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce et mauris vitae tortor sollicitudin dapibus quis in velit. Nam vitae malesuada eros, at blandit eros. Suspendisse potenti. Donec congue quam eu enim volutpat, ac sagittis ex viverra. Vivamus finibus neque a ultricies tempor. Maecenas ligula nisl, facilisis a odio et, elementum gravida lorem. Cras eget ornare orci. Aliquam pellentesque sapien scelerisque, posuere ex sed, blandit est. Sed tristique ultricies egestas. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</string>
     <string name="service_3_title">Consulting</string>
     <string name="service_3_description">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</string>
+
+    <!-- STRING value for blank fragment -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 
 </resources>

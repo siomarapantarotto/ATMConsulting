@@ -1,8 +1,21 @@
 <resources xmlns:android="http://schemas.android.com/apk/res/android">
-    <item name="ic_menu_camera" type="drawable">@android:drawable/ic_menu_camera</item>
-    <item name="ic_menu_gallery" type="drawable">@android:drawable/ic_menu_gallery</item>
-    <item name="ic_menu_slideshow" type="drawable">@android:drawable/ic_menu_slideshow</item>
-    <item name="ic_menu_manage" type="drawable">@android:drawable/ic_menu_manage</item>
-    <item name="ic_menu_share" type="drawable">@android:drawable/ic_menu_share</item>
-    <item name="ic_menu_send" type="drawable">@android:drawable/ic_menu_send</item>
+
+    <!--
+     The original icon values that come with a navigation drawer activity were kept for future
+     implementation. If not the case, delete this block and the respective images from drawable
+    -->
+    <item name="ic_menu_camera"     type="drawable">@android:drawable/ic_menu_camera</item>
+    <item name="ic_menu_gallery"    type="drawable">@android:drawable/ic_menu_gallery</item>
+    <item name="ic_menu_slideshow"  type="drawable">@android:drawable/ic_menu_slideshow</item>
+    <item name="ic_menu_manage"     type="drawable">@android:drawable/ic_menu_manage</item>
+    <item name="ic_menu_share"      type="drawable">@android:drawable/ic_menu_share</item>
+    <item name="ic_menu_send"       type="drawable">@android:drawable/ic_menu_send</item>
+
+    <!-- Actual icon values that were implemented for ATM Consulting APP -->
+    <item name="ic_menu_home"       type="drawable">@drawable/ic_home_black_24dp</item>
+    <item name="ic_menu_services"   type="drawable">@drawable/ic_services_black_24dp</item>
+    <item name="ic_menu_clients"    type="drawable">@drawable/ic_clients_black_24dp</item>
+
+    <!-- Two icon values were set directly on 'activity_main_drawer.xml' file -->
+
 </resources>
