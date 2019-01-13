@@ -14,7 +14,7 @@
         tools:context=".fragment.ServicesFragment"
         tools:layout_editor_absoluteY="81dp">
 
-        <!-- TODO: Update blank fragment layout -->
+        <!-- Services fragment layout -->
 
         <TextView
             android:id="@+id/txtService1Title"
