@@ -29,10 +29,7 @@ Project is created with:
 
 
 ## Setup
-To run this project:
-###1) download the directory
-###2) place it inside of your Android Studio and
-###3) run it.
+To run this project, download the directory to your "AndroidStudioProjects" folder and run it.
 
 ## Contributions
 Thanks for viewing ATM Consulting APP!
