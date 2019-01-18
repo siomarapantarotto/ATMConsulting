@@ -5,6 +5,7 @@
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [Contributions](#contributions)
+* [Screenshots](#screenshots)
 
 ## General info
 ATMConsulting is a simple ANDROID APPLICATION SAMPLE to advertise a fictional IT consulting company.
@@ -28,8 +29,7 @@ Basically:
 ## Technologies
 Project is created with:
 * Android Studio version 3.2
-* Lorem Ipsum fragments
-* Pixabay free images
+
 
 ## Setup
 To run this project, install it in your Android Studio and run it.
@@ -45,4 +45,5 @@ Contributions are more than welcome!
 
 siomara.com.br
 
+## Technologies
 ![Optional Text](../master/app/src/main/res/readme-images/atmconsulting_workspace.png)
