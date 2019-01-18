@@ -4,6 +4,7 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
+* [Contributions](#contributions)
 
 ## General info
 ATMConsulting is a simple ANDROID APPLICATION SAMPLE to advertise a fictional IT consulting company.
@@ -32,7 +33,7 @@ Project is created with:
 ## Setup
 To run this project, install it in your Android Studio and run it.
 
-
+## Contributions
 Thanks for viewing ATM Consulting APP!
 
 More detailed documentation can be found directly on the code.
@@ -41,4 +42,4 @@ Feel free to contact me for more information.
 
 Contributions are more than welcome!
 
-#siomara.com.br
+siomara.com.br
