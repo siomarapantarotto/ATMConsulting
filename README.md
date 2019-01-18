@@ -1,3 +1,5 @@
+# <img src="../master/app/src/main/res/drawable/profile.png"/> ATMConsulting
+
 # ATMConsulting
 
 ## Table of contents
