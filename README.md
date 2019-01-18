@@ -29,6 +29,7 @@ Basically:
 Project is created with:
 * Android Studio version 3.2
 * Lorem Ipsum fragments
+* Pixabay free images
 
 ## Setup
 To run this project, install it in your Android Studio and run it.
