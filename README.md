@@ -16,11 +16,11 @@ Basically:
 
 2) It implements the "onNavigationItemSelected" method with the following options:
 
-* HOME/t/t: Directs user to the home page.
-* SERVICES/t/t: Shows the services offered by the company.
-* CLIENTS/t/t: Shows the clients of the company.
-* CONTACT US/t: Allows user to send email.
-* ABOUT US/t: Describes the company and allow the user to follow its social networks.
+* HOME          : Directs user to the home page.
+* SERVICES      : Shows the services offered by the company.
+* CLIENTS       : Shows the clients of the company.
+* CONTACT US    : Allows user to send email.
+* ABOUT US      : Describes the company and allow the user to follow its social networks.
 
 ## Technologies
 Project is created with:
