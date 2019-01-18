@@ -27,7 +27,6 @@ Project is created with:
 * Android Studio version 3.2
 * Java
 
-
 ## Setup
 To run this project, download the directory to your "AndroidStudioProjects" folder and run it.
 
