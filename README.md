@@ -30,14 +30,8 @@ Project is created with:
 ## Setup
 To run this project, download the directory to your "AndroidStudioProjects" folder and run it.
 
-## Contributions
-Thanks for viewing ATM Consulting APP!
-
-More detailed documentation can be found directly on the code.
-
-Feel free to contact me for more information.
-
-Contributions are more than welcome!
+## How to contribute
+Thanks for viewing ATM Consulting APP! More detailed documentation can be found directly on the code. Feel free to contact me for more information. Contributions are more than welcome!
 
 siomara.com.br
 
