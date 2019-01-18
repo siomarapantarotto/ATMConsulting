@@ -39,7 +39,7 @@ Feel free to contact me for more information.
 
 Contributions are more than welcome!
 
-www.siomara.com.br
+siomara.com.br
 
 ## Screenshots
 ![Optional Text](../master/app/src/main/res/readme-screenshots/atmconsulting_workspace.png)
