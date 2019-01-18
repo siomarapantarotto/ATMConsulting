@@ -1,4 +1,4 @@
-# <img src="../master/app/src/main/res/drawable/profile.png"/> ATMConsulting
+# <img src="../master/app/src/main/res/drawable/profile.jpg"/> ATMConsulting
 
 # ATMConsulting
 
