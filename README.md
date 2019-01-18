@@ -1,6 +1,4 @@
-# <img src="../master/app/src/main/res/drawable/profile.jpg"/> ATMConsulting
-
-# ATMConsulting
+# <img src="../master/app/src/main/res/drawable/profile.jpg"/> # ATMConsulting
 
 ## Table of contents
 * [General info](#general-info)
