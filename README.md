@@ -42,4 +42,4 @@ Contributions are more than welcome!
 siomara.com.br
 
 ## Screenshots
-![Optional Text](../master/app/src/main/res/readme-images/atmconsulting_workspace.png)
+![Optional Text](../master/app/src/main/res/readme-screenshots/atmconsulting_workspace.png)
