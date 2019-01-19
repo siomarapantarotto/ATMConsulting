@@ -1,4 +1,4 @@
-# <img src="../master/app/src/main/res/drawable/profile.jpg"/>  ATMConsulting
+# <kbd><img src="../master/app/src/main/res/drawable/profile.jpg"/></kbd>  ATMConsulting
 
 ## Table of contents
 * [General info](#general-info)
@@ -26,7 +26,7 @@ Project is created with:
 * Java
 
 ## Setup
-To run this project, download the directory to your "AndroidStudioProjects" folder and run it.
+To run this project, just download the project directory to your "AndroidStudioProjects" folder and run it.
 
 ## How to contribute
 Thanks for viewing ATM Consulting APP! Contributions are more than welcome.
