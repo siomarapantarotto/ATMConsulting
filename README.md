@@ -32,20 +32,16 @@ To run this project, download the directory to your "AndroidStudioProjects" fold
 ![Optional Text](../master/app/src/main/res/readme-screenshots/atmconsulting_workspace.png)
 
 ## App screenshots
-<img src="../master/app/src/main/res/readme-screenshots/atm1_home.png" width="50" height="100">
-<img src="../master/app/src/main/res/readme-screenshots/atm2_navigation.png" width="50" height="100">
-![Optional Text](../master/app/src/main/res/readme-screenshots/atm3_services.png)
-![Optional Text](../master/app/src/main/res/readme-screenshots/atm4_clients.png)
-![Optional Text](../master/app/src/main/res/readme-screenshots/atm5_1_contactus.png)
-![Optional Text](../master/app/src/main/res/readme-screenshots/atm5_2_presetemail.png)
-![Optional Text](../master/app/src/main/res/readme-screenshots/atm5_3_presetemail.png)
-![Optional Text](../master/app/src/main/res/readme-screenshots/atm6_1_aboutus.png)
-![Optional Text](../master/app/src/main/res/readme-screenshots/atm6_2_blankemail.png)
-![Optional Text](../master/app/src/main/res/readme-screenshots/atm6_3_website.png)
-![Optional Text](../master/app/src/main/res/readme-screenshots/atm6_4_facebook.png)
-![Optional Text](../master/app/src/main/res/readme-screenshots/atm6_5_instagram.png)
-![Optional Text](../master/app/src/main/res/readme-screenshots/atm6_6_github.png)
-
+<img src="../master/app/src/main/res/readme-screenshots/atm1_home.png" width="100" height="200"> <img src="../master/app/src/main/res/readme-screenshots/atm2_navigation.png" width="100" height="200"> <img src="../master/app/src/main/res/readme-screenshots/atm3_services.png" width="100" height="200"> <img src="../master/app/src/main/res/readme-screenshots/atm4_clients.png" width="100" height="200">
+<img src="../master/app/src/main/res/readme-screenshots/atm5_1_contactus.png" width="100" height="200">
+<img src="../master/app/src/main/res/readme-screenshots/atm5_2_presetemail.png" width="100" height="200">
+<img src="../master/app/src/main/res/readme-screenshots/atm5_3_presetemail.png" width="100" height="200">
+<img src="../master/app/src/main/res/readme-screenshots/atm6_1_aboutus.png" width="100" height="200">
+<img src="../master/app/src/main/res/readme-screenshots/atm6_2_blankemail.png" width="100" height="200">
+<img src="../master/app/src/main/res/readme-screenshots/atm6_3_website.png" width="100" height="200">
+<img src="../master/app/src/main/res/readme-screenshots/atm6_4_facebook.png" width="100" height="200">
+<img src="../master/app/src/main/res/readme-screenshots/atm6_5_instagram.png" width="100" height="200">
+<img src="../master/app/src/main/res/readme-screenshots/atm6_6_github.png" width="100" height="200">
 
 ## How to contribute
 Thanks for viewing ATM Consulting APP! Contributions are more than welcome.
