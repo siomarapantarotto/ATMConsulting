@@ -1,4 +1,5 @@
-# <kbd><img src="../master/app/src/main/res/drawable/profile.jpg"/></kbd>  ATMConsulting
+# <kbd><img src="../master/app/src/main/res/drawable/profile.jpg"/></kbd>
+ATMConsulting
 
 ## Table of contents
 * [General info](#general-info)
