@@ -28,15 +28,6 @@ Project is created with:
 ## Setup
 To run this project, just download the project directory to your "AndroidStudioProjects" folder and run it.
 
-## Thanks and how to contribute
-Thanks for spending some time viewing ATM Consulting APP!
-
-Contributions are more than welcome.
-
-Please, feel free to contact me for more information.
-
-[siomara.com.br](http://www.siomara.com.br)
-
 ## Workspace screenshot
 ![Optional Text](../master/app/src/main/res/readme-screenshots/atmconsulting_workspace.png)
 
@@ -53,3 +44,11 @@ Please, feel free to contact me for more information.
 <kbd><img src="../master/app/src/main/res/readme-screenshots/atm6_5_instagram.png"   width="130" height="260"></kbd>
 <kbd><img src="../master/app/src/main/res/readme-screenshots/atm6_6_github.png"      width="130" height="260"></kbd>
 
+## Thanks and how to contribute
+Thanks for spending some time viewing ATM Consulting APP!
+
+Contributions are more than welcome.
+
+Please, feel free to contact me for more information.
+
+[siomara.com.br](http://www.siomara.com.br)
