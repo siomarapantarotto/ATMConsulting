@@ -4,8 +4,9 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
-* [Contributions](#contributions)
-* [Screenshots](#screenshots)
+* [Workspace screenshot](#workspace-screenshot)
+* [App screenshots](#app-screenshots)
+* [Thanks and how to contribute](#thanks-and-how-to-contribute)
 
 ## General info
 ATMConsulting is a simple ANDROID APPLICATION SAMPLE to advertise a fictional IT consulting company.
