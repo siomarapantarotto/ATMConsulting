@@ -1,5 +1,4 @@
-# <kbd><img src="../master/app/src/main/res/drawable/profile.jpg"/></kbd>
-ATMConsulting
+# <kbd><img src="../master/app/src/main/res/drawable/profile.jpg"/></kbd>  ATM Consulting
 
 ## Table of contents
 * [General info](#general-info)
@@ -10,7 +9,7 @@ ATMConsulting
 * [Thanks and how to contribute](#thanks-and-how-to-contribute)
 
 ## General info
-ATMConsulting is a simple ANDROID APPLICATION SAMPLE to advertise a fictional IT consulting company.
+ATM Consulting is a simple ANDROID APPLICATION SAMPLE to advertise a fictional IT consulting company.
 
 The APP uses a Navigation Drawer as lateral menu and it implements the "onNavigationItemSelected" method with the following options:
 
@@ -18,12 +17,12 @@ The APP uses a Navigation Drawer as lateral menu and it implements the "onNaviga
 * SERVICES      : Shows the services offered by the company.
 * CLIENTS       : Shows the clients of the company.
 * CONTACT US    : Allows user to send email.
-* ABOUT US      : Describes the company and allow the user to follow its website and social networks.
+* ABOUT US      : Describes the company and allows the user to follow its website and social networks.
 
 More detailed documentation can be found directly on the code.
 
 ## Technologies
-Project is created with:
+The project is created with:
 * Android Studio version 3.2
 * Java
 
