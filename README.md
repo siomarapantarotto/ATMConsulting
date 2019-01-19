@@ -43,7 +43,6 @@ siomara.com.br
 <kbd><img src="../master/app/src/main/res/readme-screenshots/atm4_clients.png"       width="130" height="260"></kbd>
 <kbd><img src="../master/app/src/main/res/readme-screenshots/atm5_1_contactus.png"   width="130" height="260"></kbd>
 <kbd><img src="../master/app/src/main/res/readme-screenshots/atm5_2_presetemail.png" width="130" height="260"></kbd>
-<kbd><img src="../master/app/src/main/res/readme-screenshots/atm5_3_presetemail.png" width="130" height="260"></kbd>
 <kbd><img src="../master/app/src/main/res/readme-screenshots/atm6_1_aboutus.png"     width="130" height="260"></kbd>
 <kbd><img src="../master/app/src/main/res/readme-screenshots/atm6_2_blankemail.png"  width="130" height="260"></kbd>
 <kbd><img src="../master/app/src/main/res/readme-screenshots/atm6_3_website.png"     width="130" height="260"></kbd>
