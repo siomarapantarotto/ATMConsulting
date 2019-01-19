@@ -1,5 +1,6 @@
 # <kbd><img src="../master/app/src/main/res/drawable/profile.jpg"/></kbd>  ATM Consulting
 
+
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
@@ -7,6 +8,7 @@
 * [Workspace screenshot](#workspace-screenshot)
 * [App screenshots](#app-screenshots)
 * [Thanks and how to contribute](#thanks-and-how-to-contribute)
+
 
 ## General info
 ATM Consulting is a simple ANDROID APPLICATION SAMPLE to advertise a fictional IT consulting company.
@@ -21,16 +23,20 @@ The APP uses a Navigation Drawer as lateral menu and it implements the "onNaviga
 
 More detailed documentation can be found directly on the code.
 
+
 ## Technologies
 The project is created with:
 * Android Studio version 3.2
 * Java
 
+
 ## Setup
 To run this project, just download the project directory to your "AndroidStudioProjects" folder and run it.
 
+
 ## Workspace screenshot
 ![Optional Text](../master/app/src/main/res/readme-screenshots/atmconsulting_workspace.png)
+
 
 ## App screenshots
 <kbd><img src="../master/app/src/main/res/readme-screenshots/atm1_home.png"          width="130" height="260"></kbd> <kbd><img src="../master/app/src/main/res/readme-screenshots/atm2_navigation.png" width="130" height="260"></kbd>
@@ -44,6 +50,7 @@ To run this project, just download the project directory to your "AndroidStudioP
 <kbd><img src="../master/app/src/main/res/readme-screenshots/atm6_4_facebook.png"    width="130" height="260"></kbd>
 <kbd><img src="../master/app/src/main/res/readme-screenshots/atm6_5_instagram.png"   width="130" height="260"></kbd>
 <kbd><img src="../master/app/src/main/res/readme-screenshots/atm6_6_github.png"      width="130" height="260"></kbd>
+
 
 ## Thanks and how to contribute
 Thanks for spending some time viewing ATM Consulting APP!
