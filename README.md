@@ -1,4 +1,4 @@
-# <kbd><img src="../master/app/src/main/res/drawable/profile.jpg"/></kbd>  ATM Consulting
+# <kbd><img src="../master/app/src/main/res/drawable/profile.jpg" width="130" height="90"/></kbd>  ATM Consulting
 
 
 ## Table of contents
