@@ -29,10 +29,10 @@ Project is created with:
 To run this project, just download the project directory to your "AndroidStudioProjects" folder and run it.
 
 ## How to contribute
-Thanks for viewing ATM Consulting APP! Contributions are more than welcome.
+Thanks for spending some time viewing ATM Consulting APP! Contributions are more than welcome.
 Please, feel free to contact me for more information.
 
-siomara.com.br
+[siomara.com.br](http://www.siomara.com.br)
 
 ## Workspace screenshot
 ![Optional Text](../master/app/src/main/res/readme-screenshots/atmconsulting_workspace.png)
