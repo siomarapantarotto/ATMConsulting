@@ -38,7 +38,7 @@ siomara.com.br
 ![Optional Text](../master/app/src/main/res/readme-screenshots/atmconsulting_workspace.png)
 
 ## App screenshots
-<img src="../master/app/src/main/res/readme-screenshots/atm1_home.png"          width="120" height="240"> <img src="../master/app/src/main/res/readme-screenshots/atm2_navigation.png" width="120" height="240">
+<kbd><img src="../master/app/src/main/res/readme-screenshots/atm1_home.png"          width="120" height="240"></kbd> <kbd><img src="../master/app/src/main/res/readme-screenshots/atm2_navigation.png" width="120" height="240"></kbd>
 <img src="../master/app/src/main/res/readme-screenshots/atm3_services.png"      width="120" height="240">
 <img src="../master/app/src/main/res/readme-screenshots/atm4_clients.png"       width="120" height="240">
 <img src="../master/app/src/main/res/readme-screenshots/atm5_1_contactus.png"   width="120" height="240">
