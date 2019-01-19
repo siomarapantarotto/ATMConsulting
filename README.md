@@ -11,7 +11,7 @@
 
 
 ## General info
-ATM Consulting is a simple ANDROID APPLICATION SAMPLE to advertise a fictional IT consulting company.
+"ATMConsulting" is a simple ANDROID APPLICATION SAMPLE to advertise a fictional IT consulting company.
 
 The APP uses a Navigation Drawer as lateral menu and it implements the "onNavigationItemSelected" method with the following options:
 
@@ -53,7 +53,7 @@ To run this project, just download the project directory to your "AndroidStudioP
 
 
 ## Thanks and how to contribute
-Thanks for spending some time viewing ATM Consulting APP!
+Thanks for spending some time viewing "ATMConsulting" APP!
 
 Contributions are more than welcome.
 
