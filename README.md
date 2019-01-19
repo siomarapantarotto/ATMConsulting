@@ -28,8 +28,11 @@ Project is created with:
 ## Setup
 To run this project, just download the project directory to your "AndroidStudioProjects" folder and run it.
 
-## How to contribute
-Thanks for spending some time viewing ATM Consulting APP! Contributions are more than welcome.
+## Thanks and how to contribute
+Thanks for spending some time viewing ATM Consulting APP!
+
+Contributions are more than welcome.
+
 Please, feel free to contact me for more information.
 
 [siomara.com.br](http://www.siomara.com.br)
