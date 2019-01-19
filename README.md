@@ -32,8 +32,7 @@ To run this project, download the directory to your "AndroidStudioProjects" fold
 ![Optional Text](../master/app/src/main/res/readme-screenshots/atmconsulting_workspace.png)
 
 ## App screenshots
-<img src="../master/app/src/main/res/readme-screenshots/atm1_home.png"          width="150" height="300">
-<img src="../master/app/src/main/res/readme-screenshots/atm2_navigation.png"    width="150" height="300">
+<img src="../master/app/src/main/res/readme-screenshots/atm1_home.png"          width="150" height="300"> <img src="../master/app/src/main/res/readme-screenshots/atm2_navigation.png"    width="150" height="300">
 <img src="../master/app/src/main/res/readme-screenshots/atm3_services.png"      width="150" height="300">
 <img src="../master/app/src/main/res/readme-screenshots/atm4_clients.png"       width="150" height="300">
 <img src="../master/app/src/main/res/readme-screenshots/atm5_1_contactus.png"   width="150" height="300">
