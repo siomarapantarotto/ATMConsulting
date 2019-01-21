@@ -5,7 +5,6 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
-* [Workspace screenshot](#workspace-screenshot)
 * [App screenshots](#app-screenshots)
 * [Thanks and how to contribute](#thanks-and-how-to-contribute)
 
@@ -32,10 +31,6 @@ The project is created with:
 
 ## Setup
 To run this project, just download the project directory to your "AndroidStudioProjects" folder and run it.
-
-
-## Workspace screenshot
-![Optional Text]("https://github.com/siomarapantarotto/readme-screenshots/blob/master/ATMConsulting/atmconsulting_workspace.png")
 
 
 ## App screenshots
