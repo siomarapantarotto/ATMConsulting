@@ -35,7 +35,7 @@ To run this project, just download the project directory to your "AndroidStudioP
 
 
 ## Workspace screenshot
-![Optional Text](../master/app/src/main/res/readme-screenshots/atmconsulting_workspace.png)
+![Optional Text]("https://github.com/siomarapantarotto/readme-screenshots/blob/master/AtmConsulting/atmconsulting_workspace.png")
 
 
 ## App screenshots
