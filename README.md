@@ -1,4 +1,4 @@
-# <kbd><img src="../master/app/src/main/res/drawable/profile.jpg" width="130" height="90"/></kbd>  ATM Consulting
+# <kbd><img src="https://github.com/siomarapantarotto/readme-screenshots/blob/master/AtmConsulting/profile.jpg" width="130" height="90"/></kbd>  ATM Consulting
 
 
 ## Table of contents
@@ -39,17 +39,17 @@ To run this project, just download the project directory to your "AndroidStudioP
 
 
 ## App screenshots
-<kbd><img src="../master/app/src/main/res/readme-screenshots/atm1_home.png"          width="130" height="260"></kbd> <kbd><img src="../master/app/src/main/res/readme-screenshots/atm2_navigation.png" width="130" height="260"></kbd>
-<kbd><img src="../master/app/src/main/res/readme-screenshots/atm3_services.png"      width="130" height="260"></kbd>
-<kbd><img src="../master/app/src/main/res/readme-screenshots/atm4_clients.png"       width="130" height="260"></kbd>
-<kbd><img src="../master/app/src/main/res/readme-screenshots/atm5_1_contactus.png"   width="130" height="260"></kbd>
-<kbd><img src="../master/app/src/main/res/readme-screenshots/atm5_2_presetemail.png" width="130" height="260"></kbd>
-<kbd><img src="../master/app/src/main/res/readme-screenshots/atm6_1_aboutus.png"     width="130" height="260"></kbd>
-<kbd><img src="../master/app/src/main/res/readme-screenshots/atm6_2_blankemail.png"  width="130" height="260"></kbd>
-<kbd><img src="../master/app/src/main/res/readme-screenshots/atm6_3_website.png"     width="130" height="260"></kbd>
-<kbd><img src="../master/app/src/main/res/readme-screenshots/atm6_4_facebook.png"    width="130" height="260"></kbd>
-<kbd><img src="../master/app/src/main/res/readme-screenshots/atm6_5_instagram.png"   width="130" height="260"></kbd>
-<kbd><img src="../master/app/src/main/res/readme-screenshots/atm6_6_github.png"      width="130" height="260"></kbd>
+<kbd><img src="https://github.com/siomarapantarotto/readme-screenshots/blob/master/AtmConsulting/atm1_home.png"          width="130" height="260"></kbd> <kbd><img src="https://github.com/siomarapantarotto/readme-screenshots/blob/master/AtmConsulting/atm2_navigation.png" width="130" height="260"></kbd>
+<kbd><img src="https://github.com/siomarapantarotto/readme-screenshots/blob/master/AtmConsulting/atm3_services.png"      width="130" height="260"></kbd>
+<kbd><img src="https://github.com/siomarapantarotto/readme-screenshots/blob/master/AtmConsulting/atm4_clients.png"       width="130" height="260"></kbd>
+<kbd><img src="https://github.com/siomarapantarotto/readme-screenshots/blob/master/AtmConsulting/atm5_1_contactus.png"   width="130" height="260"></kbd>
+<kbd><img src="https://github.com/siomarapantarotto/readme-screenshots/blob/master/AtmConsulting/atm5_2_presetemail.png" width="130" height="260"></kbd>
+<kbd><img src="https://github.com/siomarapantarotto/readme-screenshots/blob/master/AtmConsulting/atm6_1_aboutus.png"     width="130" height="260"></kbd>
+<kbd><img src="https://github.com/siomarapantarotto/readme-screenshots/blob/master/AtmConsulting/atm6_2_blankemail.png"  width="130" height="260"></kbd>
+<kbd><img src="https://github.com/siomarapantarotto/readme-screenshots/blob/master/AtmConsulting/atm6_3_website.png"     width="130" height="260"></kbd>
+<kbd><img src="https://github.com/siomarapantarotto/readme-screenshots/blob/master/AtmConsulting/atm6_4_facebook.png"    width="130" height="260"></kbd>
+<kbd><img src="https://github.com/siomarapantarotto/readme-screenshots/blob/master/AtmConsulting/atm6_5_instagram.png"   width="130" height="260"></kbd>
+<kbd><img src="https://github.com/siomarapantarotto/readme-screenshots/blob/master/AtmConsulting/atm6_6_github.png"      width="130" height="260"></kbd>
 
 
 ## Thanks and how to contribute
