@@ -1,4 +1,4 @@
-# <kbd><img src="https://github.com/siomarapantarotto/readme-screenshots/blob/master/ATMConsulting/profile.jpg" width="130" height="90"/></kbd>  ATM Consulting
+# <kbd><img src="https://github.com/siomarapantarotto/ATMConsulting/blob/master/app/src/main/res/drawable/profile.jpg" width="130" height="90"/></kbd>  ATM Consulting
 
 
 ## Table of contents
