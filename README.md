@@ -10,15 +10,15 @@
 
 
 ## General info
-"ATMConsulting" is a simple ANDROID APPLICATION SAMPLE to advertise a fictional IT consulting company.
+"ATMConsulting" is a simple ANDROID APPLICATION SAMPLE that advertises a fictional IT consulting company.
 
-The APP uses a Navigation Drawer as lateral menu and it implements the "onNavigationItemSelected" method with the following options:
+The APP contains a Navigation Drawer as lateral menu and it implements the "onNavigationItemSelected" method with the following options:
 
-* HOME          : Directs user to the home page.
+* HOME          : Directs users to the home page.
 * SERVICES      : Shows the services offered by the company.
 * CLIENTS       : Shows the clients of the company.
-* CONTACT US    : Allows user to send email.
-* ABOUT US      : Describes the company and allows the user to follow its website and social networks.
+* CONTACT US    : Allows users to send emails.
+* ABOUT US      : Describes the company and allows users to follow its website and social networks.
 
 More detailed documentation can be found directly on the code.
 
@@ -30,7 +30,7 @@ The project is created with:
 
 
 ## Setup
-To run this project, just download the project directory to your "AndroidStudioProjects" folder and run it.
+To run this app sample, download the project directory to your "AndroidStudioProjects" folder, let gradle solve dependencies if necessary and run it.
 
 
 ## App screenshots
